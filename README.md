@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, I'm Shaurya Verma 👋
 
-<!--
-**shaurya-cyber-28/shaurya-cyber-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diploma CSE Student | Cybersecurity Enthusiast  
+💻 Building real-world security projects & SOC-style systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔐 What I Do
+- Build cybersecurity tools (IDS, attack simulators, monitoring systems)
+- Work with Python, networking, and security tools
+- Focus on practical, real-world attack & defense scenarios
+
+---
+
+### 🚀 Current Focus
+- CyberDefense-X (Attack Simulation + SOC Dashboard)
+- AI-based Intrusion Detection Systems
+- Dark Web Monitoring Tool (simulation project)
+
+---
+
+### 🛠️ Skills
+- Python (Core + Security)
+- Networking Basics (DNS, HTTP, Scanning)
+- Tools: Nmap, Wireshark, Nikto
+
+---
+
+### 📈 Goal
+To become a skilled cybersecurity engineer with strong real-world project experience.
+
+---
+
+### 📫 Contact
+📧 ansh.verma.cyber@gmail.com  
