@@ -1,35 +1,38 @@
-## Hi, I'm Shaurya Verma 👋
+## Hey there 👋
 
-🎓 Diploma CSE Student | Cybersecurity Enthusiast  
-💻 Building real-world security projects & SOC-style systems  
+I'm Shaurya, a cybersecurity-focused developer based in India.
 
----
+I build practical security tools like attack simulators, intrusion detection systems, and monitoring dashboards.
 
-### 🔐 What I Do
-- Build cybersecurity tools (IDS, attack simulators, monitoring systems)
-- Work with Python, networking, and security tools
-- Focus on practical, real-world attack & defense scenarios
+Everything I work on is focused on real-world learning — no copy-paste projects.
 
 ---
 
-### 🚀 Current Focus
+### Tools & Tech
+
+- Python
+- Networking Basics (DNS, HTTP)
+- Nmap, Wireshark, Nikto
+- Flask, HTML, CSS
+
+---
+
+### Current Work
+
 - CyberDefense-X (Attack Simulation + SOC Dashboard)
-- AI-based Intrusion Detection Systems
-- Dark Web Monitoring Tool (simulation project)
+- AI-based Intrusion Detection System
+- Dark Web Monitoring Tool (simulation)
 
 ---
 
-### 🛠️ Skills
-- Python (Core + Security)
-- Networking Basics (DNS, HTTP, Scanning)
-- Tools: Nmap, Wireshark, Nikto
+### A Bit About Me
+
+- 🧠 Interested in cybersecurity & real-world attack scenarios  
+- ⚙️ Like building clean, useful, and practical tools  
+- 🎯 Goal: Become a skilled cybersecurity engineer  
 
 ---
 
-### 📈 Goal
-To become a skilled cybersecurity engineer with strong real-world project experience.
+### Contact
 
----
-
-### 📫 Contact
-📧 ansh.verma.cyber@gmail.com  
+- 📧 ansh.verma.cyber@gmail.com
