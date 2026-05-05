@@ -4,7 +4,7 @@ I'm Shaurya, a cybersecurity-focused developer based in India.
 
 I build practical security tools like attack simulators, intrusion detection systems, and monitoring dashboards.
 
-Everything I work on is focused on real-world learning — no copy-paste projects.
+Everything I work on is focused on real-world learning.
 
 ---
 
