@@ -21,7 +21,7 @@ Everything I work on is focused on real-world learning.
 
 - CyberDefense-X (Attack Simulation + SOC Dashboard)
 - AI-based Intrusion Detection System
-- Dark Web Monitoring Tool (simulation)
+- Dark Web Monitoring Tool 
 
 ---
 
